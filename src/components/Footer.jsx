@@ -20,9 +20,8 @@ function Footer() {
             </div>
             <div className="mt-8 border-t border-gray-700 pt-8 flex flex-col items-center">
               <p className="text-sm">
-                &copy; 2024 Your Company. All rights reserved.
+                 All rights reserved.
               </p>
-              <p className="text-sm">Supportive Partner ❤️ Ankush</p>
             </div>
           </div>
         </div>
