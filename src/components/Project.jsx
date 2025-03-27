@@ -38,14 +38,14 @@ function Project() {
           title={"MyBlog"} 
           />
             <Card Proimg ={img3} 
-          gitHubLink={`https://github.com/shiva1240/To-Do-list.git`}
-          about={`To-do list manager which creates, edit , delete task on click`}
-          title={"To-do-list Manager"} 
+          gitHubLink={`https://github.com/shiva1240/Ecommerce-website`}
+          about={`A full stack E-Commerce Website built using MERN stack.`}
+          title={"E-Commerce Website"} 
           />
             <Card Proimg ={img4} 
-          gitHubLink={`https://github.com/shiva1240/Password-genrator.git`}
-          about={`A utility Password generator app using react js`}
-          title={"Password-Genrator"} 
+          gitHubLink={`https://github.com/shiva1240/Doctor-Appointment-Booking-System`}
+          about={`A full stack Appointment Booking  Website built using MERN stack for efficiently managing appointments.`}
+          title={"Doctor Appointment Booking System"} 
           />
          
          
